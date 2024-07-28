@@ -1,5 +1,5 @@
 [package]
-name = "Subgroups_of_an_Additive_Group"
+name = "Subgroups_of_an_Additive_Group_Z_n"
 version = "0.1.0"
 edition = "2021"
 
