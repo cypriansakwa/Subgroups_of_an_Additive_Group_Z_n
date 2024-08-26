@@ -34,7 +34,7 @@ fn generate_all_subgroups(n: u64) -> Vec<HashSet<u64>> {
 }
 
 fn main() {
-    let n = 12; // Replace with the desired value of n
+    let n = 24; // Replace with the desired value of n
     let subgroups = generate_all_subgroups(n);
     println!("Subgroups of Z_{}:", n);
     for subgroup in subgroups {
